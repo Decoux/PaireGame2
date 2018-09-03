@@ -113,6 +113,9 @@ textarea {
      left: 20%;
    }
 
+   img{
+     cursor: crosshair;
+   }
    .font-size-p{
      font-size: 80px;
      color: green;
