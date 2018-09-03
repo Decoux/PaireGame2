@@ -115,6 +115,7 @@ textarea {
 
    img{
      cursor: crosshair;
+     height: 100%;
    }
    .font-size-p{
      font-size: 80px;
